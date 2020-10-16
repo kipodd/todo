@@ -5,7 +5,7 @@ todos = ["Plan the family trip to Europe",
          "Send tax report"]
 done = ["Finish todo app"]
 
-sg.theme('Reddit')
+sg.theme("Reddit")
 
 layout = [
     [sg.Text("To Do:")],
